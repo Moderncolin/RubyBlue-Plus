@@ -561,8 +561,12 @@
 				"foreground": "#8DB0D3"
 			}
 		},
-
-
+		{
+			"scope": "constant.other.color.rgb-value.hex.css",
+			"settings": {
+				"foreground": "#8DB0D3"
+			}
+		},
 		{
 			"scope": "",
 			"settings": {
