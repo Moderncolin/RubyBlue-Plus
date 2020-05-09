@@ -163,7 +163,7 @@
 		//"inputValidation.infoBorder": "#007acc",
 		//"inputValidation.warningBackground": "#352a05",
 		//"inputValidation.warningBorder": "#b89500",
-		//"list.activeSelectionBackground": "#094771",
+		"list.activeSelectionBackground": "#112435",
 		//"list.activeSelectionForeground": "#ffffff",
 		//"list.deemphasizedForeground": "#8c8c8c",
 		//"list.errorForeground": "#f88070",
