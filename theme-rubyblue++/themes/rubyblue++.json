@@ -537,6 +537,25 @@
 				"foreground": "#8DB0D3"
 			}
 		},
+		{
+			"scope": "variable.argument.css",
+			"settings": {
+				"foreground": "#8DB0D3"
+			}
+		},
+		{
+			"scope": "support.type.property-name.media.css",
+			"settings": {
+				"foreground": "#ff7300"
+			}
+		},
+		{
+			"scope": "punctuation.section.media.begin.bracket.curly.css, punctuation.section.media.end.bracket.curly.css",
+			"settings": {
+				"foreground": "#8DB0D3"
+			}
+		},
+
 
 
 		{
