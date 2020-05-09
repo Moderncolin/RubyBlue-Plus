@@ -1,0 +1,19 @@
+{
+	"name": "theme-rubyblue++",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"categories": [ "Themes" ],
+	"publisher": "Moderncolin",
+	"license": "MIT",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "RubyBlue++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rubyblue++.json"
+			}
+		]
+	}
+}
