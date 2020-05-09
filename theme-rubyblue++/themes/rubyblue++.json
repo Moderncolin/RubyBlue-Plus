@@ -525,6 +525,28 @@
 				"foreground": "#FF0000"
 			}
 		},
+        {
+			"scope": "support.constant.property-value.css",
+			"settings": {
+				"foreground": "#8DB0D3"
+			}
+		},
+		{
+			"scope": "support.constant.font-name.css",
+			"settings": {
+				"foreground": "#8DB0D3"
+			}
+		},
+
+
+		{
+			"scope": "",
+			"settings": {
+				"foreground": "#8DB0D3"
+			}
+		},
+		
+
 		{
 			"scope": "punctuation.definition.string.begin.html, punctuation.definition.string.end.html",
 			"settings": {
