@@ -555,7 +555,12 @@
 				"foreground": "#8DB0D3"
 			}
 		},
-
+		{
+			"scope": "support.constant.color.w3c-standard-color-name.css",
+			"settings": {
+				"foreground": "#8DB0D3"
+			}
+		},
 
 
 		{
