@@ -142,7 +142,7 @@
 		//"extensionButton.prominentBackground": "#327e36",
 		//"extensionButton.prominentForeground": "#ffffff",
 		//"extensionButton.prominentHoverBackground": "#28632b",
-		"focusBorder": "#ff0000cc",
+		// "focusBorder": "#ff0000cc",
 		//"foreground": "#cccccc",
 		//"gitDecoration.addedResourceForeground": "#81b88b",
 		//"gitDecoration.conflictingResourceForeground": "#6c6cc4",
