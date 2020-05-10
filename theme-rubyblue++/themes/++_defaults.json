@@ -175,7 +175,7 @@
 		//"list.invalidItemForeground": "#b89500",
 		//"list.warningForeground": "#cca700",
 		//"listFilterWidget.background": "#653723",
-		//"listFilterWidget.noMatchesOutline": "#be1100",
+		"listFilterWidget.noMatchesOutline": "#be1100",
 		//"listFilterWidget.outline": "#00000000",
 		"menu.selectionBackground": "#383838",
 		//"menu.selectionForeground": "#ffffff",
