@@ -3,10 +3,19 @@
 	"displayName": "%displayName%",
 	"description": "%description%",
 	"version": "1.0.0",
-	"categories": [ "Themes" ],
 	"publisher": "M-C-M",
+	// "categories": [ "Themes" ],
+	// "icon": "images/icon.png",
+	// "repository":"https://github.com/Moderncolin/RubyBlue-Plus.git",
+
 	"icon": "images/icon.png",
-	"repository":"https://github.com/Moderncolin/RubyBlue-Plus.git",
+    "categories": ["Themes"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Moderncolin/RubyBlue-Plus.git"
+    },
+
+
 	"license": "MIT",
 	"engines": { "vscode": "*" },
 	"contributes": {
