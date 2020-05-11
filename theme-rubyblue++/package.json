@@ -4,7 +4,7 @@
 	"description": "%description%",
 	"version": "1.0.0",
 	"categories": [ "Themes" ],
-	"icon": "RubyBlue-Plus/icon.png",
+	"icon": "./themes/icon.png",
 	"publisher": "M-C-M",
 	"repository":"https://github.com/Moderncolin/RubyBlue-Plus.git",
 	"license": "MIT",
