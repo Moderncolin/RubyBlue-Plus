@@ -16,3 +16,12 @@
 		
 	]
 }
+{
+	"taskName": "publish",
+	// Always show errors from builds.
+	"showOutput": "always",
+	"args": [
+		"/p:DeployOnBuild=true",
+		"/p:PublishProfile=Test"
+	]
+}
