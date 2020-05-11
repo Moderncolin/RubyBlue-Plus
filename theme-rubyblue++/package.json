@@ -5,6 +5,7 @@
 	"version": "1.0.0",
 	"categories": [ "Themes" ],
 	"publisher": "Moderncolin",
+	"repository":"https://github.com/Moderncolin/RubyBlue-Plus.git",
 	"license": "MIT",
 	"engines": { "vscode": "*" },
 	"contributes": {
