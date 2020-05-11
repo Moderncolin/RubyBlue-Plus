@@ -14,7 +14,6 @@
 			{
 				"label": "RubyBlue++",
 				"uiTheme": "vs-dark",
-				"icon": "./theme-rubyblue++/themes/icon.png",
 				"path": "./themes/rubyblue++.json"
 			}
 		]
