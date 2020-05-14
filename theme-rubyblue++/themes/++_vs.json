@@ -110,14 +110,14 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#569cd6"
+				"foreground": "#FF8000"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#569cd6"
+				"foreground": "#FF8000"
 			}
 		},
 		{
