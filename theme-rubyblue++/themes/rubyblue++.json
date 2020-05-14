@@ -129,7 +129,7 @@
 		{
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#569CD6",
+				"foreground": "#FF8000",
 				"fontStyle": "bold"
 			}
 		},
