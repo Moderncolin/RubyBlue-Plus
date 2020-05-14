@@ -12,10 +12,10 @@ In VsCode press F1, And type: `ext install RubyBlue Theme` . Or you can do: `>ex
 ![html screenshot](theme-rubyblue%2B%2B/images/Preview_1.png)
 
 ### CSS
-![css screenshot](theme-rubyblue%2B%3B/images/Preview_2.png)
+![css screenshot](theme-rubyblue%2B%2B/images/Preview_2.PNG)
 
 ### JavaScript
-![javascript screenshot](theme-rubyblue%2B%4B/images/Preview_3.png)
+![javascript screenshot](theme-rubyblue%2B%2B/images/Preview_3.PNG)
 
 
 ## Release Notes
