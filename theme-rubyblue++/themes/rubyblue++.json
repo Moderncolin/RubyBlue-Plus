@@ -866,7 +866,7 @@
 			}
 		},
 		{
-			"scope": "entity.name.section.markdown",
+			"scope": "entity.name.section.markdown.md",
 			"settings": {
 				"foreground": "#FF8000"
 			}
