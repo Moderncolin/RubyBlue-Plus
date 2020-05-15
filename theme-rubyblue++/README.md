@@ -22,7 +22,7 @@ In VsCode press F1, And type: `ext install RubyBlue++ Theme` . Or you can do: `>
 
 ## Release Notes
 
-### Version 1.0.0
+### Version 1.0.1
 
 
 
