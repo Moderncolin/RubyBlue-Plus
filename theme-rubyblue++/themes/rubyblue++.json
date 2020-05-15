@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"name": "RubyBlue++ (rubyblue++)",
-	"include": "./++_vs.json",
+	"include": "./++_defaults.json",
 	"tokenColors": [
 		{
 			"name": "Function declarations",
