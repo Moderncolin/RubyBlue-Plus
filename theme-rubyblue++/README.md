@@ -4,7 +4,7 @@ RubyBlue from notepad++. Same color scheme
 
 ## Install
 
-In VsCode press F1, And type: `ext install RubyBlue Theme` . Or you can do: `>ext install`, hit enter, Type `RubyBlue Theme`.
+In VsCode press F1, And type: `ext install RubyBlue++ Theme` . Or you can do: `>ext install`, hit enter, Type `RubyBlue++ Theme`.
 
 ## Screenshots
 
@@ -17,6 +17,8 @@ In VsCode press F1, And type: `ext install RubyBlue Theme` . Or you can do: `>ex
 ### JavaScript
 ![javascript screenshot](theme-rubyblue%2B%2B/images/Preview_3.PNG)
 
+### .md
+![README.md screenshot](theme-rubyblue%2B%2B/images/Preview_4.PNG)
 
 ## Release Notes
 
