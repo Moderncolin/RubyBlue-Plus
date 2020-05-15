@@ -171,7 +171,7 @@
 		//"list.focusBackground": "#062f4a",
 		//"list.highlightForeground": "#0097fb",
 		//"list.hoverBackground": "#2a2d2e",
-		//"list.inactiveSelectionBackground": "#37373d",
+		"list.inactiveSelectionBackground": "#112435",
 		//"list.invalidItemForeground": "#b89500",
 		//"list.warningForeground": "#cca700",
 		//"listFilterWidget.background": "#653723",
