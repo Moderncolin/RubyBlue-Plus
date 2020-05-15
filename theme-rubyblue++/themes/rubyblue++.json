@@ -172,7 +172,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#FFFF80"
 			}
 		},
 		{
