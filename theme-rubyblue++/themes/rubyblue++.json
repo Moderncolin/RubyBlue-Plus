@@ -806,6 +806,356 @@
 				"foreground": "#CE9178"
 			}
 		},
+// XML Section -------------------------------------------
+		{
+			"name": "",
+			"scope": [
+				"entity.name.tag.localname.xml"
+			],
+			"settings": {
+				"foreground": "#7BD827"
+			}
+		},
+		{
+			"name": "",
+			"scope": [
+				"meta.tag.xml"
+			],
+			"settings": {
+				"foreground": "#FFFF80"
+			}
+		},
+		{
+			"name": "",
+			"scope": [
+				"text.xml"
+			],
+			"settings": {
+				"foreground": "#F4DD0B"
+			}
+		},
+		{
+			"name": "",
+			"scope": [
+				"punctuation.definition.tag.xml"
+			],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "",
+			"scope": [
+				"entity.other.attribute-name.localname.xml"
+			],
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "",
+			"scope": [
+				"punctuation.definition.string.begin.xml",
+				"punctuation.definition.string.end.xml"
+			],
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "",
+			"scope": [
+				"string.quoted.double.xml"
+			],
+			"settings": {
+				"foreground": "#F4DD0B"
+			}
+		},
+// XML Section End ---------------------------------------		
+// PHP Section -------------------------------------------
+		{
+			"name": " -> ",
+			"scope": [
+				"keyword.operator.class.php"
+			],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": " mail ",
+			"scope": [
+				"variable.other.php"
+			],
+			"settings": {
+				"foreground": "#9dff00"
+			}
+		},
+		{
+			"name": " $ ",
+			"scope": [
+				"punctuation.definition.variable.php"
+			],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": "  ",
+			"scope": [
+				"entity.name.function.php"
+			],
+			"settings": {
+				"foreground": "#F4DD0B"
+			}
+		},
+		{
+			"name": " ; ",
+			"scope": [
+				"punctuation.terminator.expression.php"
+			],
+			"settings": {
+				"foreground": "#ff5e00"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"keyword.operator.assignment.php"
+			],
+			"settings": {
+				"foreground": "#FFFF80"
+			}
+		},
+		{
+			"name": " ",
+			"scope": [
+				"punctuation.definition.string.begin.php",
+				"punctuation.definition.string.end.php"
+			],
+			"settings": {
+				"foreground": "#FFFFEE"
+			}
+		},
+		{
+			"name": " if/else ",
+			"scope": [
+				"keyword.control.if.php",
+				"keyword.control.else.php",
+				"keyword.control.exit.php"
+			],
+			"settings": {
+				"foreground": "#F4DD0B"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"variable.other.global.php"
+			],
+			"settings": {
+				"foreground": "#f50000"
+			}
+		},
+		{
+			"name": " ",
+			"scope": [
+				"punctuation.definition.arguments.end.bracket.round.php",
+				"punctuation.definition.arguments.begin.bracket.round.php"
+			],
+			"settings": {
+				"foreground": "#ff5e00"
+			}
+		},
+		{
+			"name": " ",
+			"scope": [
+				"punctuation.definition.end.bracket.round.php",
+				"punctuation.definition.begin.bracket.round.php"
+			],
+			"settings": {
+				"foreground": "#ff00ff"
+			}
+		},
+		{
+			"name": " ",
+			"scope": [
+				"punctuation.definition.begin.bracket.curly.php",
+				"punctuation.definition.end.bracket.curly.php"
+			],
+			"settings": {
+				"foreground": "#F4DD0B"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"string.quoted.double.php"
+			],
+			"settings": {
+				"foreground": "#FFFFEE"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"string.quoted.single.php"
+			],
+			"settings": {
+				"foreground": "#FFFFEE"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"constant.other.php"
+			],
+			"settings": {
+				"foreground": "#FFFFEE"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"support.function.construct.php"
+			],
+			"settings": {
+				"foreground": "#FFFFEE"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"punctuation.section.embedded.end.php",
+				"punctuation.section.embedded.begin.php"
+			],
+			"settings": {
+				"foreground": "#FF7A01"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"support.class.php"
+			],
+			"settings": {
+				"foreground": "#FFFF80"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"support.other.namespace.php"
+			],
+			"settings": {
+				"foreground": "#FFFFEE"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"keyword.operator.logical.php"
+			],
+			"settings": {
+				"foreground": "#50f9ff"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"keyword.other.use.php",
+				"keyword.other.new.php"
+			],
+			"settings": {
+				"foreground": "#a591ff"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"constant.language.php"
+			],
+			"settings": {
+				"foreground": "#d0ff00be"
+			}
+		},
+// PHP Section End ------------------------------------------------
+// INI Section ----------------------------------------------------
+		{
+			"name": " + ",
+			"scope": [
+				""
+			],
+			"settings": {
+				"foreground": ""
+			}
+		},
+        {
+			"name": " = ",
+			"scope": [
+				"keyword.other.definition.ini"
+			],
+			"settings": {
+				"foreground": "#7BD827"
+			}
+		},
+		{
+			"name": " = ",
+			"scope": [
+				"entity.name.section.group-title.ini"
+			],
+			"settings": {
+				"foreground": "#F4DD0B"
+			}
+		},
+		{
+			"name": " + ",
+			"scope": [
+				"punctuation.separator.key-value.ini"
+			],
+			"settings": {
+				"foreground": "#FFFF80"
+			}
+		},
+		{
+			"name": " + ",
+			"scope": [
+				"source.ini"
+			],
+			"settings": {
+				"foreground": "#FF8000"
+			}
+		},
+		{
+			"name": " + ",
+			"scope": [
+				"punctuation.definition.comment.ini"
+			],
+			"settings": {
+				"foreground": "#FF00FF"
+			}
+		},
+		{
+			"name": " + ",
+			"scope": [
+				"comment.line.semicolon.ini"
+			],
+			"settings": {
+				"foreground": "#FFFFEE"
+			}
+		},
+// INI Section End-------------------------------------------------
+// JAVA Script Section --------------------------------------------
+		{
+			"name": "  ",
+			"scope": [
+				"variable.other.readwrite.js"
+			],
+			"settings": {
+				"foreground": "#f50000"
+			}
+		},
+// JAVA  Script Section End ---------------------------------------
 		{
 			"name": "Regular expression groups",
 			"scope": [

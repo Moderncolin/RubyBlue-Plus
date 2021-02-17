@@ -14,7 +14,7 @@ In VsCode press F1, And type: `ext install RubyBlue++ Theme` . Or you can do: `>
 ### CSS
 ![css screenshot](theme-rubyblue%2B%2B/images/Preview_2.PNG)
 
-### JavaScript
+### Json
 ![javascript screenshot](theme-rubyblue%2B%2B/images/Preview_3.PNG)
 
 ### Markdown
