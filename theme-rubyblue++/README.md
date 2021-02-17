@@ -20,9 +20,12 @@ In VsCode press F1, And type: `ext install RubyBlue++ Theme` . Or you can do: `>
 ### Markdown
 ![README.md screenshot](theme-rubyblue%2B%2B/images/Preview_4.PNG)
 
+### XML
+![XML screenshot](theme-rubyblue%2B%2B/images/Preview_5.PNG)
+
 ## Release Notes
 
-### Version 1.0.1
+### Version 1.0.2
 
 
 
