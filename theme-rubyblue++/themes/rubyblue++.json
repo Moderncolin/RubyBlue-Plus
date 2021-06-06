@@ -390,6 +390,40 @@
 				"foreground": "#FF00FF"
 			}
 		},
+
+		{
+			"scope": "meta.function.extinf.m3u",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": [
+				"string.unquoted.m3u"
+			],
+			"settings": {
+				"foreground": "#F4DD0B"
+			}
+		},
+		{
+			"scope": "support.constant.m3u",
+			"settings": {
+				"foreground": "#FF00FF"
+			}
+		},
+		{
+			"scope": "constant.numeric.m3u",
+			"settings": {
+				"foreground": "#7BD827"
+			}
+		},
+		{
+			"scope": "keyword.control.m3u",
+			"settings": {
+				"foreground": "#7BD827"
+			}
+		},
+
 		{
 			"scope": [
 				"punctuation.section.property-list.end.bracket.curly.css",
